@@ -20,4 +20,8 @@ try {
     echo $e->getMessage();
 }
 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> f4a7278c215bc5d1c738405ae1f808fa7fcf23c7
